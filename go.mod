@@ -1,4 +1,4 @@
-module go-lib
+module github.com/onnttf/go-lib
 
 go 1.22.0
 
